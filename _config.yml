@@ -9,7 +9,7 @@ menu_logo:          'assets/img/menu.jpg'
 background:         'assets/img/bg10.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://vragav17.github.io/
+url:                https://vigneshk.com
 
 # Jekyll
 permalink:          /:title/
